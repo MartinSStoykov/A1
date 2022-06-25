@@ -1,0 +1,15 @@
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.csproj.AssemblyReference.cache
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.AssemblyInfoInputs.cache
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.AssemblyInfo.cs
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.csproj.CoreCompileInputs.cache
+C:\Users\GamerPC\source\repos\A1\A1.DL\bin\Debug\net5.0\A1.DL.deps.json
+C:\Users\GamerPC\source\repos\A1\A1.DL\bin\Debug\net5.0\A1.DL.dll
+C:\Users\GamerPC\source\repos\A1\A1.DL\bin\Debug\net5.0\ref\A1.DL.dll
+C:\Users\GamerPC\source\repos\A1\A1.DL\bin\Debug\net5.0\A1.DL.pdb
+C:\Users\GamerPC\source\repos\A1\A1.DL\bin\Debug\net5.0\A1.Models.dll
+C:\Users\GamerPC\source\repos\A1\A1.DL\bin\Debug\net5.0\A1.Models.pdb
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.csproj.CopyComplete
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.dll
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\ref\A1.DL.dll
+C:\Users\GamerPC\source\repos\A1\A1.DL\obj\Debug\net5.0\A1.DL.pdb

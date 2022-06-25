@@ -1,0 +1,12 @@
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\A1.Models.csproj.AssemblyReference.cache
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\A1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\A1.Models.AssemblyInfoInputs.cache
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\A1.Models.AssemblyInfo.cs
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\A1.Models.csproj.CoreCompileInputs.cache
+C:\Users\GamerPC\source\repos\A1\A1.Models\bin\Debug\net5.0\A1.Models.deps.json
+C:\Users\GamerPC\source\repos\A1\A1.Models\bin\Debug\net5.0\A1.Models.dll
+C:\Users\GamerPC\source\repos\A1\A1.Models\bin\Debug\net5.0\ref\A1.Models.dll
+C:\Users\GamerPC\source\repos\A1\A1.Models\bin\Debug\net5.0\A1.Models.pdb
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\A1.Models.dll
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\ref\A1.Models.dll
+C:\Users\GamerPC\source\repos\A1\A1.Models\obj\Debug\net5.0\A1.Models.pdb
